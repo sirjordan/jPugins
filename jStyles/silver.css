@@ -1,0 +1,10 @@
+li.jTree.node{
+	list-style-type: none;
+}
+.jTree.node{
+	border:1px solid silver;
+	margin: 2px;
+	background-color: #E8E8E8;
+	border-radius: 1px;
+	padding: 2px;
+}
