@@ -1,4 +1,4 @@
-li.jTree.node{
+.jTree.node, .jTree.node li{
 	list-style-type: none;
 }
 .jTree.node{
