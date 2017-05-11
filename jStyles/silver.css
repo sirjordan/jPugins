@@ -11,3 +11,23 @@
 .jTree.node, .jTree.node li{
 	list-style-type: none;
 }
+
+.popupInfo {
+}
+
+    .popupInfo:hover {
+        cursor: pointer;
+    }
+
+    .popupInfo .popupContent {
+        padding: 8px;
+        position: fixed;
+        background-color: white;
+        min-height: 36px;
+        min-width: 72px;
+        max-width: 300px;
+        border: 1px solid #e5e5e5;
+        border-radius: 2px;
+        z-index: 1500;
+        font-size: small;
+    }
